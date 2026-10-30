@@ -1,0 +1,4 @@
+id,company,position,date_applied,status,notes
+1,Acme,Engineer,2025-10-27,interview,Phone screen scheduled
+2,OtherCo,Designer,2025-10-28,applied,Applied via email
+3,DemoCo,Intern,2025-10-29,interview,Demo updated
